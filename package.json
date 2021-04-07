@@ -1,0 +1,12 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "dipayan ghosh",
+  "license": "ISC"
+}
